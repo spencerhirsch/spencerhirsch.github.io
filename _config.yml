@@ -1,6 +1,0 @@
-remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-plugins:
-- jekyll-include-cache
-
-title: Spencer's Test Site
-description: Laying out website for Senior Project.

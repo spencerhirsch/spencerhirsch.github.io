@@ -1,1 +1,0 @@
-# spencerhirsch.github.io
