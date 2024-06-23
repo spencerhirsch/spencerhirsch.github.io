@@ -7,7 +7,7 @@ const Projects = () => {
       <ul>
         <li>Project 1</li>
         <li>Project 2</li>
-        <!-- Add more projects as needed -->
+        {/* <!-- Add more projects as needed --> */}
       </ul>
     </section>
   );

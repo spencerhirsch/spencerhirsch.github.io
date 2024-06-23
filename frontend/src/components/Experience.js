@@ -7,7 +7,7 @@ const Experience = () => {
       <ul>
         <li>Job Title 1 - Company 1</li>
         <li>Job Title 2 - Company 2</li>
-        <!-- Add more experience as needed -->
+        {/* <!-- Add more experience as needed --> */}
       </ul>
     </section>
   );
