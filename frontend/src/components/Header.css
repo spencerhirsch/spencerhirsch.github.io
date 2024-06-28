@@ -1,0 +1,62 @@
+header {
+    background-color: #f8f9fa; /* Light grey background */
+    padding: 50px 20px; /* Padding around the header */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+  }
+  
+  .left {
+    display: flex;
+    align-items: center;
+  }
+
+  .name {
+    font-size: 2rem; /* Increase font size */
+    margin: 0;
+  }
+  
+  .left h1 {
+    margin: 0;
+    /* font-size: 1.5rem; */
+    color: black;
+  }
+  
+  .middle ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+  }
+  
+  .middle li {
+    margin: 0 10px;
+  }
+  
+  .middle a {
+    text-decoration: none;
+    color: #333; /* Dark grey text color */
+    padding: 10px 15px; /* Padding inside each link */
+    transition: color 0.3s ease; /* Smooth transition for hover effect */
+  }
+  
+  .middle a:hover {
+    color: #007bff; /* Blue color on hover */
+  }
+  
+  .right {
+    display: flex;
+    align-items: center;
+  }
+  
+  .right a {
+    color: #333; /* Dark grey color for icons */
+    margin-left: 10px; /* Space between icons */
+    font-size: 2rem; /* Adjust icon size */
+  }
+  
+  .right a:hover {
+    color: #007bff; /* Blue color on hover */
+  }
+  
